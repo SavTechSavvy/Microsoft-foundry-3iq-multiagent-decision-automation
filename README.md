@@ -80,7 +80,7 @@ Supply Chain Exception Handling<BR>
 Field Service Eligibility Checks<BR>
 
 
-<B>🛠️ Resource Components</b>BR><BR>
+<B>🛠️ Resource Components</B><BR><BR>
 
 Microsoft Copilot Studio<BR>
 Azure AI Foundry<BR>
