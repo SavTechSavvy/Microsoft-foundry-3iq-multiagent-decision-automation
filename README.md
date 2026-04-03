@@ -19,6 +19,7 @@ can activate a coordinated network of enterprise AI agents that use Microsoft's 
 
 <B>🧠 Microsoft 3 IQ Framework</B><BR>
 This solution applies enterprise intelligence across three layers:
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c39e0cad-10e6-400b-9086-69d32a73fec6" />
 
 
 <img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" /><BR><B>
