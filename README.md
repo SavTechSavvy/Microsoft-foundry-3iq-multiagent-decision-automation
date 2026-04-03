@@ -22,7 +22,7 @@ This solution applies enterprise intelligence across three layers:
 
 
 <img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" /><BR>
-Together, these layers transform conversational input into outcomes such as:
+Together, these layers transform conversational input into outcomes such as:<Br>
 ✅ Claim Approval <BR>
 ✅ Request for Additional Information<BR>
 ✅ Escalation for Human Review<BR>
