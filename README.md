@@ -1,9 +1,4 @@
-# Microsoft-foundry-3iq-multiagent-decision-automation
-Real‑time enterprise decision automation using Microsoft Copilot, Azure AI Foundry and the 3 IQ framework (Work IQ, Fabric IQ, Foundry IQ) through multi‑agent orchestration.
-
-Agentic AI Decision Automation with Microsoft Foundry workflow + 3 IQ Framework
-
-Overview
+🚀 Overview
 Enterprise workflows such as insurance claims processing are often fragmented across policy systems, historical claim records, fraud checks, and manual review cycles.
 Customers fill out forms.
 Teams manually validate coverage.
@@ -16,7 +11,7 @@ This repository demonstrates how a simple user interaction such as:
 
 activates a coordinated network of enterprise AI agents that use Microsoft's 3 IQ Framework to drive explainable, data‑grounded decisions.
 
-Microsoft 3 IQ Framework
+🧠 Microsoft 3 IQ Framework
 This solution applies enterprise intelligence across three layers:
 
 
@@ -40,3 +35,71 @@ This solution applies enterprise intelligence across three layers:
 
 
 Intelligence LayerRole in Decision AutomationWork IQEstablishes user identity, coverage context, and organizational communication historyFabric IQRetrieves historical claims data and applies analytical or fraud detection signalsFoundry IQApplies policy rules, documentation requirements, and decision logic
+Together, these layers transform conversational input into outcomes such as:
+✅ Claim Approval
+✅ Request for Additional Information
+✅ Escalation for Human Review
+All while ensuring:
+
+Policy compliance
+Data consistency
+Decision explainability
+Enterprise governance
+
+
+⚙️ Multi‑Agent Workflow Orchestration
+1️⃣ Claim initiated via Microsoft Copilot
+2️⃣ User context enriched using Work IQ
+3️⃣ Claim history retrieved from Fabric Ontology via Fabric IQ
+4️⃣ Policy validation using grounded enterprise knowledge (Foundry IQ)
+5️⃣ Fraud and anomaly signals evaluated
+6️⃣ Risk score generated
+7️⃣ Decision triggered:
+
+Approve
+Need More Info
+Escalate
+
+
+📊 Observability & Agent Tracing
+Each agent execution emits structured traces including:
+
+Data access
+Tool invocation
+Policy retrieval
+Execution latency
+Decision reasoning
+
+Integrated with:
+
+Azure Monitor
+Application Insights
+
+to ensure:
+✅ Auditability
+✅ Decision transparency
+✅ Performance monitoring
+✅ End‑to‑end reliability
+
+🌐 Extensible Use Cases
+This reference architecture extends beyond insurance into:
+
+Loan Origination
+Retail Returns Assessment
+Warranty Claims Processing
+Healthcare Prior Authorization
+Fraud Investigation
+Supply Chain Exception Handling
+Field Service Eligibility Checks
+
+
+🛠️ Technologies Used
+
+Microsoft Copilot Studio
+Azure AI Foundry
+Microsoft Fabric Ontology
+Azure OpenAI
+Application Insights
+Microsoft Teams
+Power Automate
+
