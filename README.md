@@ -68,25 +68,25 @@ To ensure:
 ✅ Performance monitoring<BR>
 ✅ End‑to‑end reliability<BR>
 
-🌐 Extensible Use Cases
+🌐 Extensible Use Cases<BR><BR>
 This reference architecture extends beyond insurance into:
 
-Loan Origination
-Retail Returns Assessment
-Warranty Claims Processing
-Healthcare Prior Authorization
-Fraud Investigation
-Supply Chain Exception Handling
-Field Service Eligibility Checks
+Loan Origination<BR>
+Retail Returns Assessment<BR>
+Warranty Claims Processing<BR>
+Healthcare Prior Authorization<BR>
+Fraud Investigation<BR>
+Supply Chain Exception Handling<BR>
+Field Service Eligibility Checks<BR>
 
 
-🛠️ Technologies Used
+<B>🛠️ Resource Components</b>BR><BR>
 
-Microsoft Copilot Studio
-Azure AI Foundry
-Microsoft Fabric Ontology
-Azure OpenAI
-Application Insights
-Microsoft Teams
-Power Automate
+Microsoft Copilot Studio<BR>
+Azure AI Foundry<BR>
+Microsoft Fabric Ontology<BR>
+Azure OpenAI<BR>
+Application Insights<BR>
+Microsoft Teams<BR>
+Power Automate<BR>
 
