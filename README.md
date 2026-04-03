@@ -1,16 +1,21 @@
 🚀 Overview
+Enterprise workflows such as insurance claims processing are often fragmented across:
 
-Enterprise workflows such as insurance claims processing are often fragmented across policy systems, historical claim records, fraud checks, and manual review cycles.
+Policy systems
+Historical claim records
+Fraud detection tools
+Manual review cycles
+
 Customers fill out forms.
 Teams manually validate coverage.
 Compliance reviews happen late.
-Fraud signals appear after payout.
+Fraud signals often appear after payout.
 With Microsoft Copilot + Azure AI Foundry, these workflows can now start as a conversation and end with a trusted, policy‑aligned decision in real time.
 This repository demonstrates how a simple user interaction such as:
 
-“My phone was stolen”
+"My phone was stolen"
 
-activates a coordinated network of enterprise AI agents that use Microsoft's 3 IQ Framework to drive explainable, data‑grounded decisions.
+can activate a coordinated network of enterprise AI agents that use Microsoft's 3 IQ Framework to drive explainable, data‑grounded decisions.
 
 🧠 Microsoft 3 IQ Framework
 This solution applies enterprise intelligence across three layers:
@@ -57,9 +62,9 @@ Enterprise governance
 6️⃣ Risk score generated
 7️⃣ Decision triggered:
 
-Approve
-Need More Info
-Escalate
+✅ Approve
+✅ Need More Info
+✅ Escalate
 
 
 📊 Observability & Agent Tracing
@@ -76,7 +81,7 @@ Integrated with:
 Azure Monitor
 Application Insights
 
-to ensure:
+To ensure:
 ✅ Auditability
 ✅ Decision transparency
 ✅ Performance monitoring
