@@ -34,7 +34,7 @@ Decision explainability<BR>
 Enterprise governance
 <BR>
 
-⚙️ Multi‑Agent Workflow Orchestration<BR><BR>
+<B>⚙️ Multi‑Agent Workflow Orchestration</b><BR><BR>
 1️⃣ Claim initiated via Microsoft Copilot
 2️⃣ User context enriched using Work IQ
 3️⃣ Claim history retrieved from Fabric Ontology via Fabric IQ
@@ -48,7 +48,7 @@ Enterprise governance
 ✅ Escalate
 
 
-📊 Observability & Agent Tracing
+<B>📊 Observability & Agent Tracing</B><BR><BR>
 Each agent execution emits structured traces including:
 
 Data access<BR>
