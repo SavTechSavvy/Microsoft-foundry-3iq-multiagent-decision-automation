@@ -34,7 +34,8 @@ Decision explainability<BR>
 Enterprise governance
 <BR>
 
-<B>⚙️ Multi‑Agent Workflow Orchestration</b><BR><BR>
+<B>⚙️ Multi‑Agent Workflow Orchestration</b><BR><BR> 
+demo video: https://youtu.be/TUgKSEEYgBU
 1️⃣ Claim initiated via Microsoft Copilot
 2️⃣ User context enriched using Work IQ
 3️⃣ Claim history retrieved from Fabric Ontology via Fabric IQ
