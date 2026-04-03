@@ -23,18 +23,18 @@ This solution applies enterprise intelligence across three layers:
 
 <img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" />
 Together, these layers transform conversational input into outcomes such as:
-✅ Claim Approval
-✅ Request for Additional Information
-✅ Escalation for Human Review
-All while ensuring:
+✅ Claim Approval <BR>
+✅ Request for Additional Information<BR>
+✅ Escalation for Human Review<BR>
+All while ensuring:<BR>
 
-Policy compliance
-Data consistency
-Decision explainability
+Policy compliance<BR>
+Data consistency<BR>
+Decision explainability<BR>
 Enterprise governance
+<BR>
 
-
-⚙️ Multi‑Agent Workflow Orchestration
+⚙️ Multi‑Agent Workflow Orchestration<BR><BR>
 1️⃣ Claim initiated via Microsoft Copilot
 2️⃣ User context enriched using Work IQ
 3️⃣ Claim history retrieved from Fabric Ontology via Fabric IQ
