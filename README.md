@@ -17,11 +17,11 @@ This repository demonstrates how a simple user interaction such as:
 
 can activate a coordinated network of enterprise AI agents that use Microsoft's 3 IQ Framework to drive explainable, data‑grounded decisions.
 
-🧠 Microsoft 3 IQ Framework
+🧠 Microsoft 3 IQ Framework<BR>
 This solution applies enterprise intelligence across three layers:
 
 
-<img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" />
+<img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" /><BR>
 Together, these layers transform conversational input into outcomes such as:
 ✅ Claim Approval <BR>
 ✅ Request for Additional Information<BR>
@@ -51,22 +51,22 @@ Enterprise governance
 📊 Observability & Agent Tracing
 Each agent execution emits structured traces including:
 
-Data access
-Tool invocation
-Policy retrieval
-Execution latency
-Decision reasoning
+Data access<BR>
+Tool invocation<BR>
+Policy retrieval<BR>
+Execution latency<BR>
+Decision reasoning<BR>
 
-Integrated with:
+Integrated with:<BR>
 
-Azure Monitor
-Application Insights
+Azure Monitor<BR>
+Application Insights<BR>
 
 To ensure:
-✅ Auditability
-✅ Decision transparency
-✅ Performance monitoring
-✅ End‑to‑end reliability
+✅ Auditability<BR>
+✅ Decision transparency<BR>
+✅ Performance monitoring<BR>
+✅ End‑to‑end reliability<BR>
 
 🌐 Extensible Use Cases
 This reference architecture extends beyond insurance into:
