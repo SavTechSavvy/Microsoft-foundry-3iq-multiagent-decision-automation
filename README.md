@@ -35,18 +35,18 @@ Enterprise governance
 <BR>
 
 <B>⚙️ Multi‑Agent Workflow Orchestration</b><BR><BR> 
-demo video: https://youtu.be/TUgKSEEYgBU
-1️⃣ Claim initiated via Microsoft Copilot
-2️⃣ User context enriched using Work IQ
-3️⃣ Claim history retrieved from Fabric Ontology via Fabric IQ
-4️⃣ Policy validation using grounded enterprise knowledge (Foundry IQ)
-5️⃣ Fraud and anomaly signals evaluated
-6️⃣ Risk score generated
-7️⃣ Decision triggered:
+demo video: https://youtu.be/TUgKSEEYgBU<BR>
+1️⃣ Claim initiated via Microsoft Copilot<BR>
+2️⃣ User context enriched using Work IQ<BR>
+3️⃣ Claim history retrieved from Fabric Ontology via Fabric IQ<BR>
+4️⃣ Policy validation using grounded enterprise knowledge (Foundry IQ)<BR>
+5️⃣ Fraud and anomaly signals evaluated<BR>
+6️⃣ Risk score generated<BR>
+7️⃣ Decision triggered:<BR>
 
-✅ Approve
-✅ Need More Info
-✅ Escalate
+✅ Approve<BR>
+✅ Need More Info<BR>
+✅ Escalate<BR>
 
 
 <B>📊 Observability & Agent Tracing</B><BR><BR>
