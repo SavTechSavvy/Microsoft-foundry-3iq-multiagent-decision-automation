@@ -22,18 +22,12 @@ This solution applies enterprise intelligence across three layers:
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c39e0cad-10e6-400b-9086-69d32a73fec6" />
 
 
-<img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" /><BR><B>
+<img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" /><BR><Br>
 Together, these layers transform conversational input into outcomes such as:<Br><Br>
 ✅ Claim Approval <BR>
 ✅ Request for Additional Information<BR>
 ✅ Escalation for Human Review<BR><B>
-All while ensuring:<BR>
 
-Policy compliance<BR>
-Data consistency<BR>
-Decision explainability<BR>
-Enterprise governance
-<BR>
 
 <B>⚙️ Multi‑Agent Workflow Orchestration</b><BR><BR> 
 <B>demo video: https://youtu.be/TUgKSEEYgBU<B/><BR>
