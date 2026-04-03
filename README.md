@@ -17,7 +17,7 @@ This repository demonstrates how a simple user interaction such as:<BR>
 
 can activate a coordinated network of enterprise AI agents that use Microsoft's 3 IQ Framework to drive explainable, data‑grounded decisions.<BR>
 
-🧠 Microsoft 3 IQ Framework<BR>
+<B>🧠 Microsoft 3 IQ Framework</B><BR>
 This solution applies enterprise intelligence across three layers:
 
 
