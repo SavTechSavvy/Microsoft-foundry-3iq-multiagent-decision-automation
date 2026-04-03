@@ -21,26 +21,7 @@ can activate a coordinated network of enterprise AI agents that use Microsoft's 
 This solution applies enterprise intelligence across three layers:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Intelligence LayerRole in Decision AutomationWork IQEstablishes user identity, coverage context, and organizational communication historyFabric IQRetrieves historical claims data and applies analytical or fraud detection signalsFoundry IQApplies policy rules, documentation requirements, and decision logic
+<img width="698" height="264" alt="image" src="https://github.com/user-attachments/assets/9e61c563-3637-46e1-ab8d-2dac71fac379" />
 Together, these layers transform conversational input into outcomes such as:
 ✅ Claim Approval
 ✅ Request for Additional Information
