@@ -10,7 +10,7 @@ Customers fill out forms.<BR>
 Teams manually validate coverage.<BR>
 Compliance reviews happen late.<BR>
 Fraud signals often appear after payout.<BR>
-With Microsoft Copilot + Azure AI Foundry, these workflows can now start as a conversation and end with a trusted, policy‑aligned decision in real time.<BR>
+<B>With Microsoft Copilot + Azure AI Foundry, these workflows can now start as a conversation and end with a trusted, policy‑aligned decision in real time.</B><BR>
 This repository demonstrates how a simple user interaction such as:<BR>
 
 "My phone was stolen"
